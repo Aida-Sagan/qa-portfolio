@@ -44,7 +44,8 @@ export default function Home() {
                     </p>
                 ) : (
                     <p style={{ maxWidth: "600px", margin: "0 auto", lineHeight: "1.6", fontSize: "1.1rem" }}>
-                        Hi! I'm a QA Engineer with 2 years of commercial experience in manual and automated testing of
+                        Hi! I&apos;m a QA Engineer
+                        with 2 years of commercial experience in manual and automated testing of
                         web applications. I also have frontend development skills and experience with CI/CD pipelines.
                         This portfolio showcases my projects and testing approach.
                     </p>
